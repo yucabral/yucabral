@@ -1,16 +1,15 @@
-## Hi there 👋
+## Software Engineer
 
-<!--
-**yucabral/yucabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A backend-focused Chicago/Detroit/Classical TDDer that loves to talk about phylosophycal subjects on Software Design and recommends these contents:
 
-Here are some ideas to get you started:
+* 📖 [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+* 📖 [Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+* 📖 [Tidy First?](https://www.amazon.com/Tidy-First-Personal-Exercise-Empirical/dp/1098151240)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+1. Go
+2. NodeJS (not by taste)
+3. Java
+
+--------
+Recreated since I lost access to my [old profile](https://github.com/yuric18)
